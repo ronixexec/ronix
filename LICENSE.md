@@ -57,7 +57,7 @@ Unleash the power of innovation with **ronix executor for pc**, a cutting-edge s
 
 ## 💻 System Requirements
 
-To run **ronix executor ios direct install** efficiently, your system should meet these requirements:
+To run **executor ios direct install** efficiently, your system should meet these requirements:
 
 | Component       | Minimum                  | Recommended               |
 |-----------------|--------------------------|---------------------------|
